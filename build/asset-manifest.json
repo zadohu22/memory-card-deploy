@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/memory-card-deploy/static/js/main.2d9f2567.js",
+    "index.html": "/memory-card-deploy/index.html",
+    "main.2d9f2567.js.map": "/memory-card-deploy/static/js/main.2d9f2567.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2d9f2567.js"
+  ]
+}
